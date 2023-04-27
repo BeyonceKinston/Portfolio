@@ -1,5 +1,5 @@
 #project1 {
-    background-image: url(https://picsum.photos/200);
+    /* background-image: url(https://picsum.photos/200); */
     background-repeat: no-repeat;
     height: 300px;
 }
@@ -11,4 +11,10 @@
 
 .test {
     color: red;
+}
+
+.screenshot{
+    width:50vw;
+    height:auto;
+    background-position: center;
 }
